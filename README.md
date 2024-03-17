@@ -31,6 +31,10 @@
 - Rupam Das
 - Abhishak Biswas
 
+## Contributors
+
+<img src="https://contrib.rocks/image?repo=KuntalGain/Socialseed" />
+
 ## Branches
 
 - ***Main Branch (master):*** This branch represents the `Production-ready` code. It should only contain stable and tested code. You deploy your app from this branch.
